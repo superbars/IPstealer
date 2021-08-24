@@ -1,2 +1,2 @@
 # IPstealer
-Just a simple IP stealer
+Please input your email, password and smtp-server 
